@@ -44,3 +44,13 @@ print("-" * 40)
 legumes.insert(0, "beterraba")
 print(legumes)
 print("-" * 40)
+
+# 4) ACESSANDO UM VALOR EM UMA POSIÇÃO ESPECIFICA
+
+print("Elemento na QUARTA posição:", valores[3])
+
+print("Elemento na PRIMEIRA posição:", valores[0])
+
+print("Elemento na ÚLTIMA posição:", valores[-1])
+
+print("Elemento na PENULTIMA posição:", valores[-2])
